@@ -1,0 +1,637 @@
+
+=====================================
+ROUND 1
+QUERY musk
+
+
+Result 1
+Relevant: Yes
+[
+ Title: Musk: Trickery ?The Only Option? For Engineers In VW Scandal?
+ Description: Elon Musk Hints At 50 Percent More Range For Tesla Model S: Video; Tesla Model 3 Unveil Comes In March, Pre-Orders Start Then, CEO Musk Says; Tesla May Lose Money ...
+ Url: http://www.greencarreports.com/news/1100252_musk-trickery-the-only-option-for-engineers-in-vw-scandal
+]
+
+Result 2
+Relevant: Yes
+[
+ Title: 600-Mile Range Tesla | Specs, News, Rumors | Digital Trends
+ Description: During an interview with Danish media, Elon Musk revealed that he estimates Tesla will be able to offer a model with a 600-plus-mile electric range by 2017.
+ Url: http://www.digitaltrends.com/cars/600-mile-range-tesla-specs-news-rumors/
+]
+
+Result 3
+Relevant: No
+[
+ Title: Musk - Wikipedia, the free encyclopedia
+ Description: Musk is a class of aromatic substances commonly used as base notes in perfumery. They include glandular secretions from animals such as the musk deer, numerous plants ...
+ Url: http://en.wikipedia.org/wiki/Musk
+]
+
+Result 4
+Relevant: Yes
+[
+ Title: Elon Musk - Wikipedia, the free encyclopedia
+ Description: Elon Reeve Musk (born June 28, 1971) is a South African-born Canadian-American business magnate, engineer, inventor and investor. [14] He is the CEO and CTO of SpaceX ...
+ Url: http://en.wikipedia.org/wiki/Elon_Musk
+]
+
+Result 5
+Relevant: No
+[
+ Title: Musk | Define Musk at Dictionary.com
+ Description: noun 1. a substance secreted in a glandular sac under the skin of the abdomen of the male musk deer, having a strong odor, and used in perfumery. 2. an artificial ...
+ Url: http://dictionary.reference.com/browse/musk
+]
+
+Result 6
+Relevant: Yes
+[
+ Title: Elon Musk (@elonmusk) | Twitter
+ Description: Elon Musk-backed SolarCity claims to have built industry's most efficient solar panel http://www. theverge.com/2015/10/2/9439 173/elon-musk-backed-solarcity-claims-to ...
+ Url: https://twitter.com/ElonMusk
+]
+
+Result 7
+Relevant: No
+[
+ Title: MUSK
+ Description: MUSK are Lennart D?ring and Gerald Zollner, who met in Berlin's nightlife back in 2009. Soon after they went through the history of dancemusic, ...
+ Url: https://www.facebook.com/MUSK.DISCO
+]
+
+Result 8
+Relevant: No
+[
+ Title: Musk perfume ingredient, Musk fragrance and essential oils ...
+ Description: Musk is a whole class of fragrant substances used as base notes in perfumery. This wonderful animalistic note creates a groundwork on which the rest of the aromatic ...
+ Url: http://www.fragrantica.com/notes/Musk-4.html
+]
+
+Result 9
+Relevant: No
+[
+ Title: Musk | Definition of musk by Merriam-Webster
+ Description: Definition of MUSK for Kids: a strong-smelling material that is used in perfumes and is obtained from a gland of an Asian deer (musk deer) or is prepared artificially
+ Url: http://www.merriam-webster.com/dictionary/musk
+]
+
+Result 10
+Relevant: No
+[
+ Title: Amazon.com: perfume musk: Beauty
+ Description: ASDM Beverly Hills Egyptian Musk, A Rich, Egyptian Musk with Precious Wood Blends and Floral Top Note., 0.5 Ounce
+ Url: http://www.amazon.com/s?ie=UTF8&page=1&rh=n%3A3760911%2Ck%3Aperfume%20musk
+]
+
+PRECISION 0.4
+=====================================
+ROUND 2
+QUERY musk tesla elon
+
+Result 1
+Relevant: Yes
+[
+ Title: Elon Musk - Wikipedia, the free encyclopedia
+ Description: Elon Reeve Musk (born June 28, 1971) is a South African-born Canadian-American business magnate, engineer, inventor and investor. [14] He is the CEO and CTO of SpaceX ...
+ Url: http://en.wikipedia.org/wiki/Elon_Musk
+]
+
+Result 2
+Relevant: Yes
+[
+ Title: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic ...
+ Description: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Kindle edition by Ashlee Vance. Download it once and read it on your Kindle device, PC, phones or ...
+ Url: http://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future-ebook/dp/B00KVI76ZS
+]
+
+Result 3
+Relevant: Yes
+[
+ Title: Elon Musk - Forbes
+ Description: Elon Musk's meteoric ride hit a speed bump in June when one of his SpaceX rockets, on its way to resupply the International Space Station, exploded two minutes into ...
+ Url: http://www.forbes.com/profile/elon-musk/
+]
+
+Result 4
+Relevant: Yes
+[
+ Title: Elon Musk (@elonmusk) | Twitter
+ Description: The Tesla Model X's Falcon Wing doors open even in the tightest ... Elon Musk-backed SolarCity claims to have built industry's most efficient solar panel ...
+ Url: https://twitter.com/ElonMusk
+]
+
+Result 5
+Relevant: Yes
+[
+ Title: Elon Musk: The mind behind Tesla, SpaceX, SolarCity ...
+ Description: Entrepreneur Elon Musk is a man with many plans. The founder of PayPal, Tesla Motors and SpaceX sits down with TED curator Chris Anderson to share details about his ...
+ Url: http://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity
+]
+
+Result 6
+Relevant: Yes
+[
+ Title: Elon Musk Debuts the Tesla Powerwall - YouTube
+ Description: Tesla Powerwall Keynote by Elon Musk "The Missing Piece" English and Spanish subtitles added, credit to Luis G?mez for transcribing and translating.
+ Url: http://www.youtube.com/watch?v=yKORsrlN-2k
+]
+
+Result 7
+Relevant: Yes
+[
+ Title: Tesla Model Y hinted at in deleted Elon Musk Tweet
+ Description: Now-deleted Elon Musk Tweet indicates that a future Model Y compact crossover will have falcon wing doors.
+ Url: http://www.autoblog.com/2015/10/06/tesla-model-y-deleted-elon-musk-tweet/
+]
+
+Result 8
+Relevant: Yes
+[
+ Title: Elon Musk hints at Tesla Model Y with falcon-wing doors ...
+ Description: Elon Musk, the world's greatest one-man PR machine, has hinted at the existence of another Tesla: the Model Y. Musk revealed the information in a tweet ...
+ Url: http://arstechnica.com/cars/2015/10/tesla-model-y-with-falcon-wing-doors-hinted-at-by-elon-musk/
+]
+
+Result 9
+Relevant: Yes
+[
+ Title: All Our Patent Are Belong To You | Tesla Motors
+ Description: All our patent are belong to us, my dear friend Elon. Ps. sorry for almost a year of delay to answer, in june 11, 2015 you will understand way.
+ Url: http://www.teslamotors.com/blog/all-our-patent-are-belong-you
+]
+
+Result 10
+Relevant: Yes
+[
+ Title: About Tesla | Tesla Motors
+ Description: In late 2014, Tesla CEO Elon Musk unveiled two dual motor all-wheel drive configurations of Model S that further improve the vehicle?s handling and performance.
+ Url: http://www.teslamotors.com/about/executives/
+]
+
+PRECISION 1.0
+
+========================================================================
+
+ROUND 1
+QUERY gates
+
+Result 1
+Relevant: No
+[
+ Title: Gates Corporation
+ Description: Gates Corporation is Powering Progress? in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+ Url: http://www.gates.com/
+]
+
+Result 2
+Relevant: No
+[
+ Title: Driveway Gates | Automatic Gates | Electric Gates
+ Description: Driveway Gates - Automatic Gates The high-quality driveway gates from GateCrafters.com come in a wide variety of options to ...
+ Url: http://www.gatecrafters.com/design_your_gates.aspx
+]
+
+Result 3
+Relevant: No
+[
+ Title: Gates Bar B.Q.
+ Description: With the tantalizing hickory barbecue smell drawing the customer through the ranch-style doors, he is immediately greeted.
+ Url: http://www.gatesbbq.com/
+]
+
+Result 4
+Relevant: No
+[
+ Title: Amazon.com: gates
+ Description: Product Features Expands to become a 192-inch wall mounted gate or free standing barrier
+ Url: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Agates
+]
+
+Result 5
+Relevant: Yes
+[
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Description: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor. In 1975, Gates co ...
+ Url: http://en.wikipedia.org/wiki/Bill_Gates
+]
+
+Result 6
+Relevant: No
+[
+ Title: gates
+ Description: gates. 13,913 likes ? 194 talking about this. www.gatesnj.com. Facebook logo. Email or Phone: Password: Keep me logged in. Forgot your password? Sign Up. gates
+ Url: https://www.facebook.com/gatesnj
+]
+
+Result 7
+Relevant: No
+[
+ Title: Gates - Wikipedia, the free encyclopedia
+ Description: Gates may refer to: Contents 1 People 2 Places 3 Art and entertainment 4 See also People Gates (surname) Gates Brown, American baseball player Gates McFadden ...
+ Url: http://en.wikipedia.org/wiki/Gates
+]
+
+Result 8
+Relevant: Yes
+[
+ Title: Bill Gates - Forbes
+ Description: Forty years ago, when Bill Gates and Paul Allen launched Microsoft, Gates' goal of getting a computer on every person's desk seemed audacious.
+ Url: http://www.forbes.com/profile/bill-gates/
+]
+
+Result 9
+Relevant: Yes
+[
+ Title: Bill & Melinda Gates Foundation
+ Description: The Gates Foundation?s effort to eradicate polio offers the chance to protect millions of children from paralysis forever.
+ Url: http://www.gatesfoundation.org/
+]
+
+Result 10
+Relevant: No
+[
+ Title: Amazon.com: Gates & Doorways: Baby Products
+ Description: Online shopping for Gates & Doorways from a great selection at Baby Products Store.
+ Url: http://www.amazon.com/b?ie=UTF8&node=166868011
+]
+
+PRECISION 0.3
+======================
+
+ROUND 2 
+QUERY gates bill computer
+
+Result 1
+Relevant: Yes
+[
+ Title: Bill Gates - Wikipedia, the free encyclopedia
+ Description: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor.
+ Url: http://en.wikipedia.org/wiki/Bill_Gates
+]
+
+Result 2
+Relevant: Yes
+[
+ Title: Bill Gates - Business Leader, Entrepreneur, Philanthropist ...
+ Description: Entrepreneur Bill Gates founded the world's largest software business, Microsoft, with Paul Allen, and subsequently became one of the richest men in the world.
+ Url: http://www.biography.com/people/bill-gates-9307520
+]
+
+Result 3
+Relevant: Yes
+[
+ Title: Bill Gates | biography - American computer programmer ...
+ Description: American computer programmer and entrepreneur who cofounded Microsoft Corporation, the world?s largest personal-computer software company. Gates wrote his first ...
+ Url: http://www.britannica.com/biography/Bill-Gates
+]
+
+Result 4
+Relevant: Yes
+[
+ Title: Bill Gates - Computer Hope
+ Description: Short biography of Bill Gates, the founder of Microsoft.
+ Url: http://www.computerhope.com/people/bill_gates.htm
+]
+
+Result 5
+Relevant: Yes
+[
+ Title: Bill Gates - Forbes
+ Description: Forty years ago, when Bill Gates and Paul Allen launched Microsoft, Gates' goal of getting a computer on every person's desk seemed audacious.
+ Url: http://www.forbes.com/profile/bill-gates/
+]
+
+Result 6
+Relevant: Yes
+[
+ Title: Bill Gates | Computer History Museum
+ Description: William (Bill) H. Gates is chairman of Microsoft Corporation, the worldwide leader in software, services and solutions that help people and businesses realize their ...
+ Url: http://www.computerhistory.org/honorary/Bill,Gates/
+]
+
+Result 7
+Relevant: Yes
+[
+ Title: Bill Gates- The birth of the computer | Lori Weintrob
+ Description: It?s fine to celebrate success but it is more important to heed the lessons of failure.- Bill Gates ...
+ Url: http://faculty.wagner.edu/lori-weintrob/bill-gates-the-birth-of-the-computer/
+]
+
+Result 8
+Relevant: Yes
+[
+ Title: Bill Gates Says We're Living in a 'Golden Age of Computer ...
+ Description: Going forward, Gates envisions that progress in user interfaces, modeling, machine learning and other computing disciplines will result in a "powerful ...
+ Url: http://www.eweek.com/cloud/bill-gates-says-were-living-in-a-golden-age-of-computer-science
+]
+
+Result 9
+Relevant: Yes
+[
+ Title: Bill Gates - Biography - About.com Money
+ Description: Bill Gates came from a family of entrepreneurship and high-spirited liveliness. William Henry Gates III was born in Seattle, Washington on October 28th, 1955.
+ Url: http://inventors.about.com/od/gstartinventors/a/Bill_Gates.htm
+]
+
+Result 10
+Relevant: Yes
+[
+ Title: Top 5 Myths About Bill Gates - HowStuffWorks
+ Description: 3: Bill Gates Said 640K RAM Was Enough -- for Anyone - Do you know the facts from the myths about Bill Gates? Take a look at this list of five myths about Bill Gates ...
+ Url: http://www.howstuffworks.com/tech-myths/5-myths-about-bill-gates3.htm
+]
+
+PRECISION 1.0
+
+================================================================================================
+
+ROUND 1
+QUERY taj mahal
+
+Result 1
+Relevant: No
+[
+ Title: Taj Mahal - Wikipedia, the free encyclopedia
+ Description: The Taj Mahal is a white marble mausoleum located on the southern bank of the Yamuna River in the Indian city of Agra. It was commissioned in 1632 by the Mughal ...
+ Url: http://en.wikipedia.org/wiki/Taj_Mahal
+]
+
+Result 2
+Relevant: No
+[
+ Title: The Taj Mahal - Facts & Summary - HISTORY.com
+ Description: Find out more about the history of The Taj Mahal, including videos, interesting articles, pictures, historical features and more. Get all the facts on HISTORY.com
+ Url: http://www.history.com/topics/taj-mahal
+]
+
+Result 3
+Relevant: No
+[
+ Title: Atlantic City New Jersey Casino Hotels | Trump Taj Mahal ...
+ Description: For five star Atlantic City Casino hotels, Trump Taj Mahal Casino Hotel offers restaurants, nightlife and a casino floor you can't resist. Explore our Atlantic City ...
+ Url: http://www.trumptaj.com/
+]
+
+Result 4
+Relevant: No
+[
+ Title: Welcome To Official WebSite of Taj Mahal-U.P.Tourism
+ Description: Official website by Department of Tourism, Government of Uttar Pradesh. Details about Taj Mahal, ticketing, tours, and tourist information.
+ Url: http://tajmahal.gov.in/
+]
+
+Result 5
+Relevant: No
+[
+ Title: Taj Mahal India
+ Description: Taj Mahal, Taj Mahal history, taj mahal location, pictures, information, taj mahal tours, tickets and packages. Taj Mahal India
+ Url: http://www.tajmahal.com/
+]
+
+Result 6
+Relevant: Yes
+[
+ Title: An International Treasure - Taj Mahal
+ Description: Official site includes news, tour schedule, discography, audio/video and pictures.
+ Url: http://www.tajblues.com/
+]
+
+Result 7
+Relevant: Yes
+[
+ Title: Taj Mahal | Biography, Albums, & Streaming Radio | AllMusic
+ Description: Find Taj Mahal bio, music, credits, awards, & streaming radio on AllMusic - A guitarist and singer/songwriter who took an?
+ Url: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+]
+
+Result 8
+Relevant: Yes
+[
+ Title: Taj Mahal ? Free listening, videos, concerts, stats and ...
+ Description: Taj Mahal (born Henry Saint Clair Fredericks in New York City on May 17, 1942) is an American Grammy Award-winning blues musician who incorporates elements of world ...
+ Url: http://www.last.fm/music/Taj+Mahal
+]
+
+Result 9
+Relevant: Yes
+[
+ Title: Amazon.com: Taj Mahal: Songs, Albums, Pictures, Bios
+ Description: Visit Amazon.com's Taj Mahal Store to shop for Taj Mahal albums (CD, MP3, Vinyl), concert tickets, and other Taj Mahal-related products (DVDs, Books, T-shirts). Also ...
+ Url: http://www.amazon.com/Taj-Mahal/e/B000APY7PY
+]
+
+Result 10
+Relevant: Yes
+[
+ Title: Taj Mahal (musician) - Wikipedia, the free encyclopedia
+ Description: Henry Saint Clair Fredericks (born May 17, 1942), who uses the stage name Taj Mahal, is an American blues musician. He often incorporates elements of world music into ...
+ Url: http://en.wikipedia.org/wiki/Taj_Mahal_(musician)
+]
+
+PRECISION 0.5
+
+====================================================================================
+
+ROUND 2
+QUERY taj mahal radio streaming
+
+Result 1
+Relevant: Yes
+[
+ Title: Taj Mahal | Biography, Albums, & Streaming Radio | AllMusic
+ Description: Find Taj Mahal bio, music, credits, awards, & streaming radio on AllMusic - A guitarist and singer/songwriter who took an?
+ Url: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+]
+
+Result 2
+Relevant: Yes
+[
+ Title: Taj Mahal | Listen and Stream Free Music, Albums, New ...
+ Description: Taj Mahal's profile including the latest music, albums, songs, music videos and more updates.
+ Url: https://myspace.com/tajblues
+]
+
+Result 3
+Relevant: Yes
+[
+ Title: 600+ Free Taj Mahal music playlists | 8tracks internet radio
+ Description: 8tracks radio. Online, everywhere. - stream 600+ taj mahal playlists including blues, rock, and folk music from your desktop or mobile device.
+ Url: http://8tracks.com/explore/taj_mahal
+]
+
+Result 4
+Relevant: Yes
+[
+ Title: Taj Mahal - Ecoute gratuite sur Deezer
+ Description: Auteur : Taj Mahal - Jesse E. Davis / Compositeurs : Taj Mahal - Jesse E. Davis / Autres contributeurs : Taj Mahal - David Rubinson - Jesse Edwin Davis - Al Kooper ...
+ Url: http://www.deezer.com/artist/4418
+]
+
+Result 5
+Relevant: No
+[
+ Title: Taj Mahal Afridi | Facebook
+ Description: Taj Mahal Afridi is on Facebook. Join Facebook to connect with Taj Mahal Afridi and others you may know. ... DEWA NET RADIO Streaming. Pakistan tehreek _e_Insaf KPK.
+ Url: https://www.facebook.com/taj.afridi.94?_rdr=p
+]
+
+Result 6
+Relevant: Yes
+[
+ Title: Taj Mahal - Chotta Chotta | Listen to Free Music Online ...
+ Description: Listen to Taj Mahal - Chotta Chotta for free. Search for free music to stream. Create your own free internet radio station.
+ Url: http://fuzz05.managed.contegix.com/profile/cubbymendoza/blip/79927541/Taj+Mahal???Chotta+Chotta
+]
+
+Result 7
+Relevant: Yes
+[
+ Title: john hammond + taj mahal - 8tracks
+ Description: 8tracks radio. Online, everywhere. - listen to the first carolina chocolate drops playlistcarolina chocolate drops. tagged with john hammond and taj mahal. from your ...
+ Url: http://8tracks.com/explore/carolina_chocolate_drops+john_hammond+taj_mahal
+]
+
+Result 8
+Relevant: No
+[
+ Title: watch Taj Mahal (2015) Full movie RapidFileShare ...
+ Description: Release 2015-10-07.Directed by Nicolas Saada that have experience make some awesome movies before.The Story is about .Taj Mahal movie is awesome to watched.The Actors ...
+ Url: http://theweeklymovie.net/it/movie/358403/Taj+Mahal-2015
+]
+
+Result 9
+Relevant: Yes
+[
+ Title: The Natch'l Blues : Taj Mahal : Free Download & Streaming ...
+ Description: Radio Programs Spirituality & Religion Douglas Lowell Blevins. Featured All Software This Just In Old School Emulation MS-DOS Games Historical Software Classic PC ...
+ Url: https://archive.org/details/mbid-cc070d27-3b5c-4676-870a-69f518ec3e45
+]
+
+Result 10
+Relevant: Yes
+[
+ Title: Paul Horn | Music Biography, Streaming Radio and ...
+ Description: Find Paul Horn bio, music, credits, awards, & streaming radio on AllMusic - A classically trained flutist who later emerged?
+ Url: http://www.allmusic.com/artist/paul-horn-mn0000100426
+]
+
+PRECISION 0.8
+
+================================================================================
+
+ROUND 3
+QUERY taj mahal radio streaming chotta music
+
+Result 1
+Relevant: Yes
+[
+ Title: Taj Mahal | Biography, Albums, & Streaming Radio | AllMusic
+ Description: Find Taj Mahal bio, music, credits, awards, & streaming radio on AllMusic ... Find Taj Mahal bio, music, credits, awards, & streaming radio on AllMusic ...
+ Url: http://www.allmusic.com/artist/taj-mahal-mn0000790604
+]
+
+Result 2
+Relevant: Yes
+[
+ Title: Taj Mahal - Chotta Chotta | Listen to Free Music Online ...
+ Description: Listen to Taj Mahal - Chotta Chotta for free. ... Listen to Music Online - Free Streaming Radio. all djs; find djs ? invite friends ...
+ Url: http://fuzz05.managed.contegix.com/profile/cubbymendoza/blip/79927541/Taj+Mahal???Chotta+Chotta
+]
+
+Result 3
+Relevant: Yes
+[
+ Title: Taj Mahal - Stagger Lee | Listen to Free Music Online ...
+ Description: Listen to Taj Mahal - Stagger Lee for free. Search for free music to stream. ... Listen to Music Online - Free Streaming Radio. all djs;
+ Url: http://blip.fm/profile/cpcdiniz/blip/58534107/Taj+Mahal???Stagger+Lee
+]
+
+Result 4
+Relevant: Yes
+[
+ Title: Taj Mahal Chotta Chotta Mp3 Download
+ Description: To listen Taj Mahal Chotta Chotta music just click Play ... cheerleader felix jaehn remix radio e... meek mill all eyes on you mp3; twerk it like miley mp3;
+ Url: https://mp3skull.cr/mp3/taj_mahal_chotta_chotta.html
+]
+
+Result 5
+Relevant: Yes
+[
+ Title: Chotta Chotta (Male) song lyrics from Taj Mahal (1999 ...
+ Description: Tamil Radio; Blog ; Cricket TV; ... Chotta Chotta (Male) Movie : Taj Mahal (1999) Singers : Srinivas Music : AR. Rahman Lyricist : ...
+ Url: http://www.tamilcollections.com/Chotta-Chotta-(Male)-tamil-song-lyrics-849
+]
+
+Result 6
+Relevant: Yes
+[
+ Title: Taj Mahal Songs - Tamil Movie Songs - Raaga.com
+ Description: Taj Mahal Tamil movies songs featuring Manoj, ... MUSIC; RADIO; PLAYLISTS; MYRAAGA; BROWSE; DEVOTIONAL ... Chotta Chotta [05.45]
+ Url: http://www.raaga.com/channels/home/moviedetail.asp?mid=T0000003
+]
+
+Result 7
+Relevant: Yes
+[
+ Title: Download Taj Mahal - Chotta Chotta (321 Second) - Free MP3 ...
+ Description: Download mp3 Taj Mahal - Chotta Chotta - (321 Second). Streaming Taj Mahal ... MP4 MP3 and Streaming Oru poiyavathu.....MP4 Music. Rating : 10 out of 10. Top Category.
+ Url: http://www.mp3searched.net/download/yt/ncDi7Kqmuej
+]
+
+Result 8
+Relevant: Yes
+[
+ Title: Taj Mahal - YouTube
+ Description: Taj Mahal Videos; Playlists; Channels; Discussion; About; Home Best of YouTube Popular on YouTube Music Sports ... taj mahal+ the phantom blues ...
+ Url: http://www.youtube.com/user/TajMahalMusic
+]
+
+Result 9
+Relevant: Yes
+[
+ Title: Taj Mahal Chotta Chotta Karaoke Free MP3 Download
+ Description: Free Download Taj Mahal Chotta Chotta Karaoke mp3, music, mp3cool, audio ... taj mahal chotta chotta karaoke.mp3 To listen songs just click on play ... Online Radio ...
+ Url: http://www.mp3cool.yt/index.php?q=taj+mahal+chotta+chotta+karaoke
+]
+
+Result 10
+Relevant: Yes
+[
+ Title: Taj Mahal | Listen and Stream Free Music, Albums, New ...
+ Description: Taj Mahal's profile including the latest music, ... Taj Mahal. Music; Videos; Connections. People; Songs; Albums; Videos; ... Start Radio. 15K 27,934. Berkeley, ...
+ Url: https://myspace.com/tajblues
+]
+
+PRECISION 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
