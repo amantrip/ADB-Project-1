@@ -176,9 +176,9 @@ def getFeedback(documents):
 
 		print "Result", index+1
 		print "["
-		print " Title: " + documents[index]['Title']
-		print " Description: " + documents[index]['Description']
-		print " Url: " + documents[index]['Url']
+		print " Title: " + documents[index]['Title'].encode('ascii', 'replace')
+		print " Description: " + documents[index]['Description'].encode('ascii', 'replace')
+		print " Url: " + documents[index]['Url'].encode('ascii', 'replace')
 		print "]\n"
 
 		answer = ""
