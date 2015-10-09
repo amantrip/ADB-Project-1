@@ -200,8 +200,7 @@ def getRelevantCount(documents):
 			count = count + 1
 
 	return count
-
-											
+						
 
 def checkTargetPrecision(docs, precision):
 	relevantCount = getRelevantCount(docs)
@@ -250,10 +249,10 @@ def getTerms(doc):
 	return terms
 
 
-def computeDocumentFrequency(df, docCt):
+def computeDocumentFrequency(df, dCount):
 	for key in df:
 		count = 0
-		for i in xrange(docCt):
+		for i in xrange(dCount):
 			count = count + df[key][i]
 		df[key][10] = count
 	return df
